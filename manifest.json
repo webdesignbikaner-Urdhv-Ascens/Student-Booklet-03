@@ -1,0 +1,10 @@
+{
+  "bookletId": "student-03",
+  "title": "Booklet 03 - Prompt Like a Pro",
+  "version": "1.0.0",
+  "totalPages": 32,
+  "pageFormat": "webp",
+  "pageDirectory": "/pages/",
+  "thumbnailDirectory": "/thumbnails/",
+  "cover": "/preview/cover.webp"
+}
